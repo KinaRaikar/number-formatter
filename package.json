@@ -1,0 +1,30 @@
+{
+  "name": "@kinaraikar/number-formatter",
+  "version": "0.1.0",
+  "description": "Number Formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinaRaikar/number-formatter.git"
+  },
+  "keywords": [
+    "Number",
+    "Formatter"
+  ],
+  "author": "Kiran Raikar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KinaRaikar/number-formatter/issues"
+  },
+  "homepage": "https://github.com/KinaRaikar/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
